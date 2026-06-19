@@ -1,0 +1,17 @@
+{
+  "name": "backend",
+  "version": "1.0.0",
+  "description": "backend bootcamp",
+  "license": "ISC",
+  "author": "Bipin Adhikari",
+  "type": "module",
+  "main": "index.js",
+  "scripts": {
+    "start": "nodemon main.js"
+  },
+  "dependencies": {
+    "dotenv": "^17.4.2",
+    "express": "^5.2.1",
+    "nodemon": "^3.1.14"
+  }
+}
